@@ -10,10 +10,10 @@ Sea Surface Temperature(SST) reanalysis data from 1980-present is available on t
 Notice : This project is mainly done using `Fortran`(A programming language designed for distributed calculation) and `GrADS`(a data visualization software mainly used in meteorological community). `Gv GrADS metafile viewer` is also needed for viewing the .gmf pictures.
 
 ##Links  
-1.![`Download Fortran`](http://tieba.baidu.com/p/2753187458)
-2.![`Download GrADS`](http://www.06climate.com/view/1501.html)
-Notice:
-Gv GrADS metafile viewer is included in the OpenGrADS files. You can search gv32.exe to find where it locates.
+1.![`Download Fortran`](http://tieba.baidu.com/p/2753187458)  
+2.![`Download GrADS`](http://www.06climate.com/view/1501.html)  
+
+`Notice:` Gv GrADS metafile viewer is included in the OpenGrADS files. You can search gv32.exe to find where it locates.
 
 
 
