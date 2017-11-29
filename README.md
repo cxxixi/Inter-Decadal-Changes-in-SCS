@@ -9,14 +9,23 @@ Sea Surface Temperature(SST) reanalysis data from 1980-present is available on t
 # Prerequisits 
 Notice : This project is mainly done using `Fortran`(A programming language designed for distributed calculation) and `GrADS`(a data visualization software mainly used in meteorological community). `Gv GrADS metafile viewer` is also needed for viewing the .gmf pictures.
 
-##Links  
+### Links  
 1.![`Download Fortran`](http://tieba.baidu.com/p/2753187458)  
 2.![`Download GrADS`](http://www.06climate.com/view/1501.html)  
 
 `Notice:` Gv GrADS metafile viewer is included in the OpenGrADS files. You can search gv32.exe to find where it locates.
 
+# Instructions
+### Major Procedures
+With the data downloaded from JMA, you can take the following steps to run out your own results:
+
+STEP1 : use the wind as an indicator of South China Sea Monsoon Index(SCSMI). Find how to implement it, ![click here]()  
+        `Notice:` Only used the east-western wind rather than integreted wind, which means you ONLY NEED to download U wind data.  
+STEP2 :  
 
 
+### A brief introduction to how to use .gs &. ctl files 
+.gs & .ctl files are commonly used when you plot graphs using GrADS. .gs is kind of scripts that 
 
 
 
