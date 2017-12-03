@@ -25,7 +25,8 @@ STEP2 :
 
 
 ### A brief introduction to how to use .gs &. ctl files 
-.gs & .ctl files are commonly used when you plot graphs using GrADS. .gs is kind of scripts that 
+.gs & .ctl files are commonly used when you plot graphs using GrADS. .gs is kind of batch files in which you write batch commands and you can directly run .gs file in GrADS.  . ctl files are description files that describe the format of data stored in .dat files. This file is compulsory, without which GrADS cannot interprete the data.
+
 
 
 
