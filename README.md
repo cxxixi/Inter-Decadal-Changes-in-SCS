@@ -29,6 +29,8 @@ STEP2 :
 `.gs` is kind of batch file in which you write batch commands and you can directly run .gs file in GrADS.   
 `. ctl` files are description files that describe the format of data stored in .dat files. This file is compulsory, without which GrADS cannot interprete the data.
 
+# 
+
 
 
 
