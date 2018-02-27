@@ -19,17 +19,16 @@ Notice : This project is mainly done using `Fortran`(A programming language desi
 #### Major Procedures
 With the data downloaded from JMA, you can take the following steps to run out your own results:
 
-STEP1 : use the wind as an indicator of South China Sea Monsoon Index(SCSMI). Find how to implement it, ![click here]()  
+STEP1 : use the wind as an indicator of South China Sea Monsoon Index(SCSMI).  
         `Notice:` Only used the east-western wind rather than integreted wind, which means you ONLY NEED to download U wind data.  
-STEP2 :  
-
+STEP2 : use Fortran to wrangle the data and output it as legal formats that GrADS can reads.  
+          Here you can implement your algorithm like PCA, SVD or wavelet method to analysis your data.  
+STEP3 : use GrADS to visulize the .dat data.
 
 #### A brief introduction to how to use .gs &. ctl files 
 .gs & .ctl files are commonly used when you plot graphs using GrADS.   
 `.gs` is kind of batch file in which you write batch commands and you can directly run .gs file in GrADS.   
 `. ctl` files are description files that describe the format of data stored in .dat files. This file is compulsory, without which GrADS cannot interprete the data.
-
-# 
 
 
 
