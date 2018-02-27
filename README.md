@@ -30,6 +30,13 @@ STEP3 : use GrADS to visulize the .dat data.
 `.gs` is kind of batch file in which you write batch commands and you can directly run .gs file in GrADS.   
 `. ctl` files are description files that describe the format of data stored in .dat files. This file is compulsory, without which GrADS cannot interprete the data.
 
+## Showcase
+![](https://github.com/cxxixi/Inter-Decadal-Changes-in-SCS/blob/master/Images/spring_sst.png)
+
+![](https://github.com/cxxixi/Inter-Decadal-Changes-in-SCS/blob/master/Images/summer_sst.png)
+
+![](https://github.com/cxxixi/Inter-Decadal-Changes-in-SCS/blob/master/Images/winter_sst.png)
+
 
 
 
