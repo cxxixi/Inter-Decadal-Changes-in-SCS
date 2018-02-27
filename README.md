@@ -35,7 +35,7 @@ STEP3 : use GrADS to visulize the .dat data.
 
 ![](https://github.com/cxxixi/Inter-Decadal-Changes-in-SCS/blob/master/Images/summer_sst.png)
 
-![](https://github.com/cxxixi/Inter-Decadal-Changes-in-SCS/blob/master/Images/winter_sst.png)
+![](https://github.com/cxxixi/Inter-Decadal-Changes-in-SCS/blob/master/Images/winter.png)
 
 
 
